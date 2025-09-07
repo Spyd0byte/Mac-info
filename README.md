@@ -18,10 +18,10 @@ This tool helps you quickly identify the **manufacturer/vendor** of a device fro
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/MAC-info.git
+git clone https://github.com/Spyd0byte/Mac-info
 
 # Navigate to the project directory
-cd MAC Info
+cd Mac-info
 
 # Install required packages
 pip install -r requirements.txt
