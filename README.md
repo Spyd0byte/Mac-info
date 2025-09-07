@@ -24,7 +24,7 @@ git clone https://github.com/Spyd0byte/Mac-info
 cd Mac-info
 
 # Install required packages
-pip install -r requirements.txt
+
 
 #Uses :
 python macinfo.py
