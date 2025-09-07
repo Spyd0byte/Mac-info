@@ -18,10 +18,10 @@ This tool helps you quickly identify the **manufacturer/vendor** of a device fro
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/mac-address-lookup.git
+git clone https://github.com/your-username/MAC-info.git
 
 # Navigate to the project directory
-cd mac-address-lookup
+cd MAC Info
 
 # Install required packages
 pip install -r requirements.txt
