@@ -27,5 +27,5 @@ cd Mac-info
 pip install -r requirements.txt
 
 #Uses :
-python macInformation.py
+python macinfo.py
 ```
